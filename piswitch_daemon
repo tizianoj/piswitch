@@ -13,7 +13,7 @@
 # Change the next 3 lines to suit where you install your script and what you want to call it
 DIR=/usr/local/bin/tiziano
 DAEMON=$DIR/shutdown_daemon.py
-DAEMON_NAME=tizi_shutdown_daemon
+DAEMON_NAME=piswitch_daemon
  
 # This next line determines what user the script runs as.
 # Root generally not recommended but necessary if you are using the Raspberry Pi GPIO from Python.
